@@ -1,11 +1,11 @@
 # Site settings
-author: Kierra M
-title: 
+author: Kierra Merriman
+title: Portfolio Project: CLI Data Gem
 header-img: img/home-bg.png
 email: k.merriman32@hotmail.com
-copyright_name: Kierra M
+copyright_name: Kierra Merriman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Endangered Animals
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kierrakay
