@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'My coding journey!'"
-date:       2020-09-14 15:44:59 +0000
+date:       2020-09-14 11:45:00 -0400
 permalink:  my_coding_journey
 ---
 
